@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemplo DB</string>
+    <string name="lbl_texto">Texto</string>
+    <string name="lbl_numero">Número</string>
+    <string name="lbl_shared_prefs">Shared Preferences</string>
+    <string name="lbl_internal">Internal Storage</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_exibir">Exibir</string>
+</resources>
